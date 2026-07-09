@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>內科 Review Hub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">INTERNAL MEDICINE · REVIEW INDEX</p>
+        <h1>內科 Review Hub</h1>
+      </div>
+      <div class="topbar-actions">
+        <button class="ghost-button" id="sourceInfoButton" type="button">全文來源</button>
+        <a class="primary-button" href="data/catalog.json">資料檔</a>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <section class="control-band" aria-label="篩選器">
+        <div class="search-row">
+          <label class="search-box">
+            <span>搜尋</span>
+            <input id="searchInput" type="search" placeholder="疾病、期刊、標籤、PMID" autocomplete="off" />
+          </label>
+          <label class="select-box">
+            <span>科別</span>
+            <select id="departmentSelect"></select>
+          </label>
+          <label class="select-box">
+            <span>排序</span>
+            <select id="sortSelect">
+              <option value="newest">最新</option>
+              <option value="exam">專考優先</option>
+              <option value="clinical">臨床優先</option>
+              <option value="journal">期刊</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="filter-row">
+          <label class="toggle-pill">
+            <input id="freeOnlyToggle" type="checkbox" />
+            <span>免費全文</span>
+          </label>
+          <label class="toggle-pill">
+            <input id="examToggle" type="checkbox" />
+            <span>專考高頻</span>
+          </label>
+          <label class="toggle-pill">
+            <input id="clinicalToggle" type="checkbox" />
+            <span>臨床必讀</span>
+          </label>
+          <label class="toggle-pill">
+            <input id="reviewedToggle" type="checkbox" />
+            <span>已審核</span>
+          </label>
+          <label class="toggle-pill">
+            <input id="bookmarksToggle" type="checkbox" />
+            <span>收藏</span>
+          </label>
+        </div>
+
+        <div class="type-tabs" role="tablist" aria-label="文獻類型">
+          <button class="type-tab is-active" type="button" data-type="all">全部</button>
+          <button class="type-tab" type="button" data-type="Review">Review</button>
+          <button class="type-tab" type="button" data-type="Guideline">Guideline</button>
+          <button class="type-tab" type="button" data-type="Meta-analysis">Meta-analysis</button>
+          <button class="type-tab" type="button" data-type="Feed">Feed</button>
+        </div>
+      </section>
+
+      <section class="stats-band" id="statsBand" aria-live="polite"></section>
+
+      <div class="content-grid">
+        <aside class="topic-panel">
+          <div class="panel-header">
+            <h2>疾病索引</h2>
+            <span id="topicCount">0</span>
+          </div>
+          <div id="topicList" class="topic-list"></div>
+        </aside>
+
+        <section class="results-panel">
+          <div class="panel-header">
+            <h2>文獻與更新來源</h2>
+            <span id="resultCount">0</span>
+          </div>
+          <div id="resultList" class="result-list"></div>
+        </section>
+      </div>
+    </main>
+
+    <dialog id="sourceDialog">
+      <form method="dialog" class="dialog-card">
+        <div class="panel-header">
+          <h2>免費全文來源</h2>
+          <button class="icon-button" value="close" aria-label="關閉" type="submit">X</button>
+        </div>
+        <p>
+          本站只標示合法公開來源，例如 PubMed Central、期刊開放取用頁面，或出版後由期刊釋出的免費版本。
+          沒有免費全文標籤的文獻仍可透過 PubMed、DOI 或機構圖書館取得正式版本。
+        </p>
+        <p>
+          自動更新項目預設為待審核；專考高頻與臨床必讀標籤應由醫師或編輯人工確認。
+        </p>
+      </form>
+    </dialog>
+
+    <footer class="site-footer">
+      <span>資料供醫療專業學習與文獻追蹤使用，臨床決策請回到原始指引、藥品仿單與院內規範確認。</span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+[
+  {
+    "department": "Cardiology",
+    "disease": "Heart Failure",
+    "query": "\"heart failure\"[Title] OR HFrEF[Title] OR HFpEF[Title]",
+    "examWeight": 5,
+    "clinicalWeight": 5,
+    "tags": ["HFrEF", "HFpEF", "GDMT"]
+  },
+  {
+    "department": "Cardiology",
+    "disease": "Hypertension",
+    "query": "hypertension[Title] OR \"high blood pressure\"[Title]",
+    "examWeight": 5,
+    "clinicalWeight": 5,
+    "tags": ["hypertension", "blood pressure"]
+  },
+  {
+    "department": "Nephrology",
+    "disease": "Chronic Kidney Disease",
+    "query": "\"chronic kidney disease\"[Title] OR CKD[Title]",
+    "examWeight": 5,
+    "clinicalWeight": 5,
+    "tags": ["CKD", "albuminuria", "SGLT2 inhibitor"]
+  },
+  {
+    "department": "Endocrinology",
+    "disease": "Type 2 Diabetes",
+    "query": "\"type 2 diabetes\"[Title] OR \"type 2 diabetes mellitus\"[Title] OR T2D[Title]",
+    "examWeight": 5,
+    "clinicalWeight": 5,
+    "tags": ["T2D", "GLP-1 RA", "SGLT2 inhibitor"]
+  },
+  {
+    "department": "Pulmonology",
+    "disease": "COPD",
+    "query": "COPD[Title] OR \"chronic obstructive pulmonary disease\"[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 5,
+    "tags": ["COPD", "exacerbation", "inhaler"]
+  },
+  {
+    "department": "Pulmonology",
+    "disease": "Pneumonia",
+    "query": "pneumonia[Title] OR \"community acquired pneumonia\"[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 5,
+    "tags": ["CAP", "antibiotics"]
+  },
+  {
+    "department": "Gastroenterology",
+    "disease": "Cirrhosis",
+    "query": "cirrhosis[Title] OR \"liver cirrhosis\"[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 5,
+    "tags": ["ascites", "varices", "hepatic encephalopathy"]
+  },
+  {
+    "department": "Infectious Diseases",
+    "disease": "Sepsis",
+    "query": "sepsis[Title] OR \"septic shock\"[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 5,
+    "tags": ["sepsis", "shock", "ICU"]
+  },
+  {
+    "department": "Rheumatology",
+    "disease": "Systemic Lupus Erythematosus",
+    "query": "\"systemic lupus erythematosus\"[Title] OR SLE[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 4,
+    "tags": ["SLE", "lupus nephritis"]
+  },
+  {
+    "department": "Hematology",
+    "disease": "Anemia",
+    "query": "anemia[Title] OR anaemia[Title]",
+    "examWeight": 4,
+    "clinicalWeight": 4,
+    "tags": ["iron deficiency", "B12", "hemolysis"]
+  }
+]
