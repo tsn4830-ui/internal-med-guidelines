@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-02T19:35:05+00:00",
+    "generatedAt": "2026-08-09T19:01:24+00:00",
     "source": "PubMed E-utilities",
     "notice": "Automatically imported records are pending review until curated.",
     "importedCount": 250,
@@ -35,7 +35,7 @@
         "Network Meta-Analysis"
       ],
       "score": 47,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42468998/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13384173/",
@@ -280,6 +280,40 @@
       }
     },
     {
+      "id": "pmid-42538102",
+      "pmid": "42538102",
+      "pmcid": "PMC13435910",
+      "doi": "10.1136/bmjresp-2026-004232",
+      "title": "Monoclonal antibody therapy in patients with severe asthma and COPD: rethinking treatment pathways and success.",
+      "journal": "BMJ open respiratory research",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "COPD",
+        "exacerbation",
+        "inhaler"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 43,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538102/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13435910/",
+        "doi": "https://doi.org/10.1136/bmjresp-2026-004232"
+      }
+    },
+    {
       "id": "pmid-42521826",
       "pmid": "42521826",
       "pmcid": "PMC6970225",
@@ -306,7 +340,7 @@
         "Review"
       ],
       "score": 43,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42521826/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970225/",
@@ -587,6 +621,41 @@
       }
     },
     {
+      "id": "pmid-42550320",
+      "pmid": "42550320",
+      "pmcid": "PMC10669155",
+      "doi": "10.1007/s11033-026-12522-2",
+      "title": "The NLRP3 inflammasome in chronic kidney disease progression: systematic review of preclinical models reveals a critical gap in pyroptosis research and therapeutic translation.",
+      "journal": "Molecular biology reports",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42550320/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10669155/",
+        "doi": "https://doi.org/10.1007/s11033-026-12522-2"
+      }
+    },
+    {
       "id": "pmid-42368958",
       "pmid": "42368958",
       "pmcid": "PMC13293797",
@@ -657,7 +726,7 @@
     {
       "id": "pmid-42541604",
       "pmid": "42541604",
-      "pmcid": "PMC12244730",
+      "pmcid": "PMC13428718",
       "doi": "10.1007/s12020-026-04711-7",
       "title": "Prevalence of undiagnosed type 2 diabetes in South Asia: A systematic review and meta-analysis.",
       "journal": "Endocrine",
@@ -678,15 +747,14 @@
       ],
       "publicationTypes": [
         "Journal Article",
-        "Systematic Review",
         "Meta-Analysis",
-        "Review"
+        "Systematic Review"
       ],
       "score": 40,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42541604/",
-        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12244730/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13428718/",
         "doi": "https://doi.org/10.1007/s12020-026-04711-7"
       }
     },
@@ -723,6 +791,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42422434/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13341555/",
         "doi": "https://doi.org/10.3389/fendo.2026.1857217"
+      }
+    },
+    {
+      "id": "pmid-42548901",
+      "pmid": "42548901",
+      "pmcid": "PMC13429837",
+      "doi": "10.3389/fcvm.2026.1819286",
+      "title": "Prevalence and influencing factors of cognitive frailty in patients with chronic heart failure: a meta-analysis.",
+      "journal": "Frontiers in cardiovascular medicine",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548901/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429837/",
+        "doi": "https://doi.org/10.3389/fcvm.2026.1819286"
       }
     },
     {
@@ -935,6 +1037,40 @@
       }
     },
     {
+      "id": "pmid-42559267",
+      "pmid": "42559267",
+      "pmcid": "PMC13439865",
+      "doi": "10.3389/fcdhc.2026.1749421",
+      "title": "Malnutrition and type 2 diabetes mellitus across diverse global populations: a systematic review of observational evidence.",
+      "journal": "Frontiers in clinical diabetes and healthcare",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42559267/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439865/",
+        "doi": "https://doi.org/10.3389/fcdhc.2026.1749421"
+      }
+    },
+    {
       "id": "pmid-42500517",
       "pmid": "42500517",
       "pmcid": "PMC13395917",
@@ -966,6 +1102,43 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42500517/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13395917/",
         "doi": "https://doi.org/10.3389/fmed.2026.1826977"
+      }
+    },
+    {
+      "id": "pmid-42548220",
+      "pmid": "42548220",
+      "pmcid": "PMC13434443",
+      "doi": "10.1111/1753-0407.70259",
+      "title": "Limited Comparative Evidence Between Metabolic Bariatric Surgery and Incretin-Based Pharmacotherapy for Weight Loss in Type 2 Diabetes: A Systematic Review and Meta-Analysis.",
+      "journal": "Journal of diabetes",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis",
+        "Comparative Study",
+        "Letter"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548220/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13434443/",
+        "doi": "https://doi.org/10.1111/1753-0407.70259"
       }
     },
     {
@@ -1131,7 +1304,7 @@
         "Systematic Review"
       ],
       "score": 40,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42525055/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13399039/",
@@ -1373,7 +1546,7 @@
         "Meta-Analysis"
       ],
       "score": 40,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42539441/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423648/",
@@ -1450,6 +1623,40 @@
       }
     },
     {
+      "id": "pmid-42548726",
+      "pmid": "42548726",
+      "pmcid": "PMC13429782",
+      "doi": "10.3389/fmed.2026.1868774",
+      "title": "Effects of exercise training on frailty, cardiorespiratory fitness, and lower limb function in non-dialysis chronic kidney disease: a systematic review and meta-analysis.",
+      "journal": "Frontiers in medicine",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548726/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429782/",
+        "doi": "https://doi.org/10.3389/fmed.2026.1868774"
+      }
+    },
+    {
       "id": "pmid-42495748",
       "pmid": "42495748",
       "pmcid": "PMC13397097",
@@ -1476,7 +1683,7 @@
         "Systematic Review"
       ],
       "score": 40,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495748/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13397097/",
@@ -1516,6 +1723,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42494915/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13393424/",
         "doi": "https://doi.org/10.3389/fpubh.2026.1880248"
+      }
+    },
+    {
+      "id": "pmid-42558312",
+      "pmid": "42558312",
+      "pmcid": "PMC13437412",
+      "doi": "10.3389/fmed.2026.1860437",
+      "title": "Effects of different complementary therapies on chronic kidney disease-associated pruritus: a systematic review and network meta-analysis.",
+      "journal": "Frontiers in medicine",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558312/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437412/",
+        "doi": "https://doi.org/10.3389/fmed.2026.1860437"
       }
     },
     {
@@ -1797,6 +2038,41 @@
       }
     },
     {
+      "id": "pmid-42554240",
+      "pmid": "42554240",
+      "pmcid": "PMC13446063",
+      "doi": "10.1080/13814788.2026.2704287",
+      "title": "Challenges and strategies for managing early-to-moderate chronic kidney disease in primary care: A systematic integrative review in high-income countries.",
+      "journal": "The European journal of general practice",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42554240/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13446063/",
+        "doi": "https://doi.org/10.1080/13814788.2026.2704287"
+      }
+    },
+    {
       "id": "pmid-42442791",
       "pmid": "42442791",
       "pmcid": "PMC13374707",
@@ -1935,6 +2211,41 @@
       }
     },
     {
+      "id": "pmid-42566081",
+      "pmid": "42566081",
+      "pmcid": "PMC13451175",
+      "doi": "10.1007/s40199-026-00637-7",
+      "title": "Are SGLT2 inhibitors really associated with increased urinary tract infection risk? A trial-level meta-analysis across type 2 diabetes, heart failure, and chronic kidney disease.",
+      "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "score": 40,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42566081/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13451175/",
+        "doi": "https://doi.org/10.1007/s40199-026-00637-7"
+      }
+    },
+    {
       "id": "pmid-42372819",
       "pmid": "42372819",
       "pmcid": null,
@@ -2026,7 +2337,7 @@
         "Systematic Review"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42523832/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13407778/",
@@ -2065,6 +2376,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42445904/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13357923/",
         "doi": "https://doi.org/10.3389/fpubh.2026.1850249"
+      }
+    },
+    {
+      "id": "pmid-42548801",
+      "pmid": "42548801",
+      "pmcid": "PMC13429670",
+      "doi": "10.3389/fmed.2026.1872781",
+      "title": "The efficacy of traditional Chinese medicine on immune function in patients with hepatitis B-related liver fibrosis or cirrhosis: a systematic review and meta-analysis.",
+      "journal": "Frontiers in medicine",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 39,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548801/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429670/",
+        "doi": "https://doi.org/10.3389/fmed.2026.1872781"
       }
     },
     {
@@ -2130,7 +2475,7 @@
         "Review"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42518630/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13381332/",
@@ -2235,7 +2580,7 @@
         "Systematic Review"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42523858/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13408023/",
@@ -2413,39 +2758,6 @@
       }
     },
     {
-      "id": "pmid-42538102",
-      "pmid": "42538102",
-      "pmcid": null,
-      "doi": "10.1136/bmjresp-2026-004232",
-      "title": "Monoclonal antibody therapy in patients with severe asthma and COPD: rethinking treatment pathways and success.",
-      "journal": "BMJ open respiratory research",
-      "year": 2026,
-      "department": "Pulmonology",
-      "disease": "COPD",
-      "articleType": "Review",
-      "curationStatus": "pending",
-      "examPriority": "unrated",
-      "clinicalPriority": "unrated",
-      "examWeight": 4,
-      "clinicalWeight": 5,
-      "freeFullText": false,
-      "tags": [
-        "COPD",
-        "exacerbation",
-        "inhaler"
-      ],
-      "publicationTypes": [
-        "Journal Article",
-        "Review"
-      ],
-      "score": 39,
-      "lastChecked": "2026-08-02",
-      "links": {
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538102/",
-        "doi": "https://doi.org/10.1136/bmjresp-2026-004232"
-      }
-    },
-    {
       "id": "pmid-42404955",
       "pmid": "42404955",
       "pmcid": "PMC13328197",
@@ -2541,11 +2853,46 @@
         "Systematic Review"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42534874/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13422413/",
         "doi": "https://doi.org/10.3389/fimmu.2026.1856660"
+      }
+    },
+    {
+      "id": "pmid-42538732",
+      "pmid": "42538732",
+      "pmcid": "PMC13433055",
+      "doi": "10.1097/CCE.0000000000001451",
+      "title": "IgM-Enriched Immunoglobulin As Adjunctive Therapy in Adult Sepsis and Septic Shock: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "journal": "Critical care explorations",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "score": 39,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538732/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13433055/",
+        "doi": "https://doi.org/10.1097/CCE.0000000000001451"
       }
     },
     {
@@ -2610,7 +2957,7 @@
         "Systematic Review"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42529044/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13416331/",
@@ -2714,7 +3061,7 @@
         "Meta-Analysis"
       ],
       "score": 39,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42491683/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13378660/",
@@ -2930,6 +3277,40 @@
       }
     },
     {
+      "id": "pmid-42558912",
+      "pmid": "42558912",
+      "pmcid": "PMC13437951",
+      "doi": "10.3389/fmed.2026.1895960",
+      "title": "Anti-type 2 monoclonal antibody therapy for eosinophilic COPD beyond triple therapy: a systematic review and meta-analysis with strict eosinophil inclusion criteria.",
+      "journal": "Frontiers in medicine",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "COPD",
+        "exacerbation",
+        "inhaler"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 39,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558912/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437951/",
+        "doi": "https://doi.org/10.3389/fmed.2026.1895960"
+      }
+    },
+    {
       "id": "pmid-42473467",
       "pmid": "42473467",
       "pmcid": "PMC13380919",
@@ -2965,6 +3346,38 @@
       }
     },
     {
+      "id": "pmid-42552165",
+      "pmid": "42552165",
+      "pmcid": null,
+      "doi": "10.1016/j.reumae.2026.502201",
+      "title": "Update to the Sociedad Española de Reumatología Guidelines on the Use of Biological Therapy in Systemic Lupus Erythematosus.",
+      "journal": "Reumatologia clinica",
+      "year": 2026,
+      "department": "Rheumatology",
+      "disease": "Systemic Lupus Erythematosus",
+      "articleType": "Guideline",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": false,
+      "tags": [
+        "SLE",
+        "lupus nephritis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "score": 38,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42552165/",
+        "doi": "https://doi.org/10.1016/j.reumae.2026.502201"
+      }
+    },
+    {
       "id": "pmid-42358369",
       "pmid": "42358369",
       "pmcid": "PMC13290462",
@@ -2991,7 +3404,7 @@
         "Systematic Review"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42358369/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13290462/",
@@ -3025,7 +3438,7 @@
         "Meta-Analysis"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42440566/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13333522/",
@@ -3230,7 +3643,7 @@
         "Systematic Review"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42353283/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13300524/",
@@ -3264,11 +3677,45 @@
         "Systematic Review"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42465773/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13372907/",
         "doi": "https://doi.org/10.3389/fimmu.2026.1679237"
+      }
+    },
+    {
+      "id": "pmid-42558397",
+      "pmid": "42558397",
+      "pmcid": "PMC13437481",
+      "doi": "10.3389/fonc.2026.1766549",
+      "title": "Initiation timing and treatment duration of eltrombopag added to immunosuppressive therapy in aplastic anemia: a systematic review and meta-analysis.",
+      "journal": "Frontiers in oncology",
+      "year": 2026,
+      "department": "Hematology",
+      "disease": "Anemia",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "iron deficiency",
+        "B12",
+        "hemolysis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "score": 38,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558397/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437481/",
+        "doi": "https://doi.org/10.3389/fonc.2026.1766549"
       }
     },
     {
@@ -3400,7 +3847,7 @@
         "Systematic Review"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42415795/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13337511/",
@@ -3468,11 +3915,112 @@
         "Meta-Analysis"
       ],
       "score": 38,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42369207/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13309745/",
         "doi": "https://doi.org/10.1155/humu/9405486"
+      }
+    },
+    {
+      "id": "pmid-42558647",
+      "pmid": "42558647",
+      "pmcid": "PMC13437975",
+      "doi": "10.3389/fcvm.2026.1832539",
+      "title": "c-Myc: an emerging participant in heart failure.",
+      "journal": "Frontiers in cardiovascular medicine",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558647/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437975/",
+        "doi": "https://doi.org/10.3389/fcvm.2026.1832539"
+      }
+    },
+    {
+      "id": "pmid-42553224",
+      "pmid": "42553224",
+      "pmcid": "PMC13433218",
+      "doi": "10.3389/fendo.2026.1825409",
+      "title": "Zinc, type 2 diabetes, diabetic kidney disease: focus on hypoxia.",
+      "journal": "Frontiers in endocrinology",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553224/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13433218/",
+        "doi": "https://doi.org/10.3389/fendo.2026.1825409"
+      }
+    },
+    {
+      "id": "pmid-42567890",
+      "pmid": "42567890",
+      "pmcid": "PMC10091169",
+      "doi": "10.1038/s41371-026-01197-8",
+      "title": "Why wait? the case for up-front single-pill combination therapy in stage 1 hypertension.",
+      "journal": "Journal of human hypertension",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42567890/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10091169/",
+        "doi": "https://doi.org/10.1038/s41371-026-01197-8"
       }
     },
     {
@@ -3502,7 +4050,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536974/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13427068/",
@@ -3544,6 +4092,39 @@
       }
     },
     {
+      "id": "pmid-42544178",
+      "pmid": "42544178",
+      "pmcid": "PMC13429084",
+      "doi": "10.1016/j.siny.2015.03.001",
+      "title": "Use of Oral Sildenafil in the Management of Persistent Pulmonary Hypertension of the Newborn: A Case Report and Review of Literature.",
+      "journal": "Nigerian medical journal : journal of the Nigeria Medical Association",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42544178/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429084/",
+        "doi": "https://doi.org/10.1016/j.siny.2015.03.001"
+      }
+    },
+    {
       "id": "pmid-42510045",
       "pmid": "42510045",
       "pmcid": "PMC13408543",
@@ -3570,7 +4151,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42510045/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13408543/",
@@ -3679,6 +4260,40 @@
       }
     },
     {
+      "id": "pmid-42549109",
+      "pmid": "42549109",
+      "pmcid": "PMC13430505",
+      "doi": "10.1002/mco2.70895",
+      "title": "Type 2 Diabetes Mellitus: Molecular Pathogenesis and Therapeutic Interventions.",
+      "journal": "MedComm",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42549109/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13430505/",
+        "doi": "https://doi.org/10.1002/mco2.70895"
+      }
+    },
+    {
       "id": "pmid-42509783",
       "pmid": "42509783",
       "pmcid": "PMC13406145",
@@ -3772,7 +4387,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42533465/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13425598/",
@@ -3907,7 +4522,7 @@
         "Scoping Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536621/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13426932/",
@@ -3941,7 +4556,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42530574/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12469281/",
@@ -3975,7 +4590,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42542670/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13427708/",
@@ -4277,7 +4892,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42512053/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13406471/",
@@ -4446,7 +5061,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42535727/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13426017/",
@@ -4480,7 +5095,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42514314/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13415045/",
@@ -4649,7 +5264,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42506731/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13417085/",
@@ -4817,7 +5432,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42527575/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11443628/",
@@ -4924,6 +5539,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42450053/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13361432/",
         "doi": "https://doi.org/10.3390/ijms27135780"
+      }
+    },
+    {
+      "id": "pmid-42568768",
+      "pmid": "42568768",
+      "pmcid": "PMC13447576",
+      "doi": "10.1016/j.ijcha.2026.101979",
+      "title": "Sex differences in vascular function among individuals with heart failure: a systematic review.",
+      "journal": "International journal of cardiology. Heart & vasculature",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42568768/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13447576/",
+        "doi": "https://doi.org/10.1016/j.ijcha.2026.101979"
       }
     },
     {
@@ -5255,7 +5904,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42511953/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405201/",
@@ -5355,7 +6004,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538403/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12798275/",
@@ -5422,7 +6071,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536250/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10030786/",
@@ -5592,7 +6241,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42519533/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13382409/",
@@ -5625,7 +6274,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42530719/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10492255/",
@@ -5791,7 +6440,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536280/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4534766/",
@@ -6033,6 +6682,40 @@
       }
     },
     {
+      "id": "pmid-42568773",
+      "pmid": "42568773",
+      "pmcid": "PMC13447997",
+      "doi": "10.1177/26335565261458448",
+      "title": "Multimorbid heart failure (HF) and cardiorenal metabolic (CaReMe) syndrome, exploring integrated models of care: A scoping review.",
+      "journal": "Journal of multimorbidity and comorbidity",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42568773/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13447997/",
+        "doi": "https://doi.org/10.1177/26335565261458448"
+      }
+    },
+    {
       "id": "pmid-42452673",
       "pmid": "42452673",
       "pmcid": "PMC13363343",
@@ -6271,6 +6954,40 @@
       }
     },
     {
+      "id": "pmid-42568255",
+      "pmid": "42568255",
+      "pmcid": "PMC13451787",
+      "doi": "10.1111/apha.70288",
+      "title": "MicroRNA-Driven Regulation of β-Cell Function in Type 2 Diabetes: Molecular Mechanisms, Network Insights, and Translational Perspectives.",
+      "journal": "Acta physiologica (Oxford, England)",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42568255/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13451787/",
+        "doi": "https://doi.org/10.1111/apha.70288"
+      }
+    },
+    {
       "id": "pmid-42404706",
       "pmid": "42404706",
       "pmcid": "PMC13332764",
@@ -6364,7 +7081,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42494528/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13392259/",
@@ -6432,7 +7149,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42534222/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13419989/",
@@ -6504,6 +7221,39 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495596/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13392301/",
         "doi": "https://doi.org/10.15420/cfr.2025.51"
+      }
+    },
+    {
+      "id": "pmid-42556847",
+      "pmid": "42556847",
+      "pmcid": "PMC13439341",
+      "doi": "10.1183/16000617.0015-2026",
+      "title": "Large animal models of right heart failure due to pulmonary hypertension: a bridge to translational success.",
+      "journal": "European respiratory review : an official journal of the European Respiratory Society",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42556847/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439341/",
+        "doi": "https://doi.org/10.1183/16000617.0015-2026"
       }
     },
     {
@@ -6678,6 +7428,40 @@
       }
     },
     {
+      "id": "pmid-42550328",
+      "pmid": "42550328",
+      "pmcid": "PMC7886551",
+      "doi": "10.1007/s10741-026-10662-y",
+      "title": "Innovative strategies to reduce heart failure hospitalizations: insights from the ESC heart failure congress 2026.",
+      "journal": "Heart failure reviews",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42550328/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7886551/",
+        "doi": "https://doi.org/10.1007/s10741-026-10662-y"
+      }
+    },
+    {
       "id": "pmid-42416581",
       "pmid": "42416581",
       "pmcid": "PMC13339225",
@@ -6709,6 +7493,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42416581/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13339225/",
         "doi": "https://doi.org/10.31083/RCM48196"
+      }
+    },
+    {
+      "id": "pmid-42558570",
+      "pmid": "42558570",
+      "pmcid": "PMC13437631",
+      "doi": "10.3389/fneph.2026.1919658",
+      "title": "Inflammation, infection, and immune dysregulation in chronic kidney disease: translational and epidemiological perspectives.",
+      "journal": "Frontiers in nephrology",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558570/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437631/",
+        "doi": "https://doi.org/10.3389/fneph.2026.1919658"
       }
     },
     {
@@ -6973,7 +7791,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42513664/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13412991/",
@@ -7108,7 +7926,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42540427/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13425804/",
@@ -7244,7 +8062,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42530804/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13424267/",
@@ -7344,7 +8162,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495760/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13418778/",
@@ -7417,6 +8235,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42439648/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13359812/",
         "doi": "https://doi.org/10.3390/cells15131171"
+      }
+    },
+    {
+      "id": "pmid-42569733",
+      "pmid": "42569733",
+      "pmcid": "PMC13450878",
+      "doi": "10.7759/cureus.112239",
+      "title": "Glucagon-Like Peptide-1 (GLP-1)-Based Therapies and Heart Failure Outcomes: A Scoping Review of Contemporary Randomized Controlled Trials.",
+      "journal": "Cureus",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42569733/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13450878/",
+        "doi": "https://doi.org/10.7759/cureus.112239"
       }
     },
     {
@@ -7725,6 +8577,74 @@
       }
     },
     {
+      "id": "pmid-42550413",
+      "pmid": "42550413",
+      "pmcid": "PMC10276015",
+      "doi": "10.1007/s10157-026-02923-9",
+      "title": "Energy metabolism in the kidney and its role in chronic kidney disease.",
+      "journal": "Clinical and experimental nephrology",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42550413/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10276015/",
+        "doi": "https://doi.org/10.1007/s10157-026-02923-9"
+      }
+    },
+    {
+      "id": "pmid-42553609",
+      "pmid": "42553609",
+      "pmcid": "PMC13435357",
+      "doi": "10.2147/DMSO.S612932",
+      "title": "Endoscopic Sleeve Gastroplasty for Type 2 Diabetes: A Systematic Review and Meta-Analysis Focusing on Diabetes Remission, Glycemic Control and Body Weight Loss.",
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553609/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13435357/",
+        "doi": "https://doi.org/10.2147/DMSO.S612932"
+      }
+    },
+    {
       "id": "pmid-42448849",
       "pmid": "42448849",
       "pmcid": "PMC4263946",
@@ -7885,7 +8805,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42518892/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13384244/",
@@ -7918,7 +8838,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538499/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7545583/",
@@ -8191,7 +9111,7 @@
         "Comparative Study"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42531572/",
         "doi": "https://doi.org/10.5867/medwave.2026.06.3217"
@@ -8229,6 +9149,73 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42474912/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911847/",
         "doi": "https://doi.org/10.1007/s11154-026-10073-2"
+      }
+    },
+    {
+      "id": "pmid-42544218",
+      "pmid": "42544218",
+      "pmcid": "PMC13429064",
+      "doi": null,
+      "title": "Effect of Hyperglycemia on Serum Uric Acid Levels in Patients with Type 2 Diabetes Mellitus.",
+      "journal": "Nigerian medical journal : journal of the Nigeria Medical Association",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42544218/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13429064/"
+      }
+    },
+    {
+      "id": "pmid-42554040",
+      "pmid": "42554040",
+      "pmcid": "PMC13439491",
+      "doi": "10.1111/echo.70582",
+      "title": "Echocardiographic Phenomapping in HFpEF: From Imaging Biomarkers to Precision Cardiovascular Medicine.",
+      "journal": "Echocardiography (Mount Kisco, N.Y.)",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42554040/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439491/",
+        "doi": "https://doi.org/10.1111/echo.70582"
       }
     },
     {
@@ -8673,6 +9660,39 @@
       }
     },
     {
+      "id": "pmid-42563436",
+      "pmid": "42563436",
+      "pmcid": "PMC13448092",
+      "doi": "10.1002/mnfr.70569",
+      "title": "DASH Diet, Dietary Nitrate, and Nitric Oxide Bioavailability: Implications for Endothelial Dysfunction and Hypertension in Older Adults.",
+      "journal": "Molecular nutrition & food research",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42563436/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13448092/",
+        "doi": "https://doi.org/10.1002/mnfr.70569"
+      }
+    },
+    {
       "id": "pmid-42369103",
       "pmid": "42369103",
       "pmcid": "PMC13303210",
@@ -8741,6 +9761,40 @@
       }
     },
     {
+      "id": "pmid-42564649",
+      "pmid": "42564649",
+      "pmcid": "PMC13445947",
+      "doi": "10.7759/cureus.112200",
+      "title": "Continuous Glucose Monitoring Beyond Intensive Insulin Therapy in Type 2 Diabetes: Evidence, Over-the-Counter Devices, Equity, and Clinical Implementation.",
+      "journal": "Cureus",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42564649/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13445947/",
+        "doi": "https://doi.org/10.7759/cureus.112200"
+      }
+    },
+    {
       "id": "pmid-42460326",
       "pmid": "42460326",
       "pmcid": "PMC13368502",
@@ -8772,6 +9826,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42460326/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13368502/",
         "doi": "https://doi.org/10.3389/fendo.2026.1849157"
+      }
+    },
+    {
+      "id": "pmid-42565898",
+      "pmid": "42565898",
+      "pmcid": "PMC13451241",
+      "doi": "10.1007/s10741-026-10656-w",
+      "title": "Contemporary medical therapy for heart failure with mildly reduced or preserved ejection fraction.",
+      "journal": "Heart failure reviews",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42565898/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13451241/",
+        "doi": "https://doi.org/10.1007/s10741-026-10656-w"
       }
     },
     {
@@ -8936,7 +10024,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42529614/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13418259/",
@@ -9146,6 +10234,40 @@
       }
     },
     {
+      "id": "pmid-42553980",
+      "pmid": "42553980",
+      "pmcid": "PMC13436994",
+      "doi": "10.1056/NEJMoa0908355",
+      "title": "Clinical Characteristics of Iron Deficiency in Patients with Chronic Heart Failure at a Major Referral Centre in Southern Nigeria.",
+      "journal": "Nigerian medical journal : journal of the Nigeria Medical Association",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553980/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13436994/",
+        "doi": "https://doi.org/10.1056/NEJMoa0908355"
+      }
+    },
+    {
       "id": "pmid-42394752",
       "pmid": "42394752",
       "pmcid": "PMC13323477",
@@ -9274,11 +10396,46 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42501286/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11831764/",
         "doi": "https://doi.org/10.1007/s40618-026-02955-8"
+      }
+    },
+    {
+      "id": "pmid-42564434",
+      "pmid": "42564434",
+      "pmcid": "PMC13444291",
+      "doi": "10.4314/ahs.v26i2.12",
+      "title": "Chronic kidney disease awareness, prevention and policy gaps with implications for the Nigerian Navy: a scoping review.",
+      "journal": "African health sciences",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Scoping Review",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42564434/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13444291/",
+        "doi": "https://doi.org/10.4314/ahs.v26i2.12"
       }
     },
     {
@@ -9375,7 +10532,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42518110/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6227505/",
@@ -9442,7 +10599,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42522353/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13420025/",
@@ -9508,7 +10665,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42521822/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13046644/",
@@ -9576,7 +10733,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42525223/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6303531/",
@@ -9651,6 +10808,40 @@
       }
     },
     {
+      "id": "pmid-42557524",
+      "pmid": "42557524",
+      "pmcid": "PMC11192648",
+      "doi": "10.1007/s11701-026-03781-z",
+      "title": "Bibliometric analysis of renal function preservation in robot-assisted partial nephrectomy: research trends, functional outcomes, and CKD-related perspectives.",
+      "journal": "Journal of robotic surgery",
+      "year": 2026,
+      "department": "Nephrology",
+      "disease": "Chronic Kidney Disease",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CKD",
+        "albuminuria",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42557524/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11192648/",
+        "doi": "https://doi.org/10.1007/s11701-026-03781-z"
+      }
+    },
+    {
       "id": "pmid-42435123",
       "pmid": "42435123",
       "pmcid": "PMC11247148",
@@ -9682,6 +10873,39 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42435123/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11247148/",
         "doi": "https://doi.org/10.1007/s10157-026-02918-6"
+      }
+    },
+    {
+      "id": "pmid-42552401",
+      "pmid": "42552401",
+      "pmcid": "PMC7998524",
+      "doi": "10.1038/s41440-026-02762-x",
+      "title": "Beyond the guidelines: Vascular function as the central determinant and therapeutic target in hypertension.",
+      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42552401/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998524/",
+        "doi": "https://doi.org/10.1038/s41440-026-02762-x"
       }
     },
     {
@@ -9915,11 +11139,43 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42540244/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13425372/",
         "doi": "https://doi.org/10.1186/s40842-024-00209-1"
+      }
+    },
+    {
+      "id": "pmid-42563341",
+      "pmid": "42563341",
+      "pmcid": null,
+      "doi": "10.29271/jcpsp.2026.08.1045",
+      "title": "Association Between Sleep Duration and Hypertension Development in Women: A Meta-Analysis.",
+      "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Meta-analysis",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "score": 36,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42563341/",
+        "doi": "https://doi.org/10.29271/jcpsp.2026.08.1045"
       }
     },
     {
@@ -10017,7 +11273,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42539707/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13424146/",
@@ -10253,7 +11509,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42533027/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7191626/",
@@ -10354,7 +11610,7 @@
         "Review"
       ],
       "score": 36,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42542446/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7998524/",
@@ -10524,11 +11780,44 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42528622/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13414191/",
         "doi": "https://doi.org/10.3389/fimmu.2026.1743737"
+      }
+    },
+    {
+      "id": "pmid-42571241",
+      "pmid": "42571241",
+      "pmcid": "PMC13451903",
+      "doi": "10.1016/j.pscia.2026.100134",
+      "title": "The gut-lung axis and viral pneumonia: Unrevealing the gut microbiota.",
+      "journal": "Pharmaceutical science advances",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "Pneumonia",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "CAP",
+        "antibiotics"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42571241/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13451903/",
+        "doi": "https://doi.org/10.1016/j.pscia.2026.100134"
       }
     },
     {
@@ -10558,7 +11847,7 @@
         "Systematic Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42366368/",
         "doi": "https://doi.org/10.1186/s12876-026-05027-6"
@@ -10794,7 +12083,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42344829/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13288039/",
@@ -10827,7 +12116,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42440657/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13333525/",
@@ -10869,6 +12158,40 @@
       }
     },
     {
+      "id": "pmid-42553058",
+      "pmid": "42553058",
+      "pmcid": "PMC13433202",
+      "doi": "10.3389/fimmu.2026.1867909",
+      "title": "Sarcopenia and sepsis fuel a self-perpetuating cycle of immunometabolism decline.",
+      "journal": "Frontiers in immunology",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553058/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13433202/",
+        "doi": "https://doi.org/10.3389/fimmu.2026.1867909"
+      }
+    },
+    {
       "id": "pmid-42358872",
       "pmid": "42358872",
       "pmcid": "PMC13292109",
@@ -10895,7 +12218,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42358872/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13292109/",
@@ -10929,7 +12252,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42506354/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13413929/",
@@ -10995,7 +12318,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42446627/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13368963/",
@@ -11097,7 +12420,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42496834/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12895724/",
@@ -11234,7 +12557,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42521977/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839473/",
@@ -11267,7 +12590,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42444964/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13358860/",
@@ -11368,7 +12691,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42534910/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13422543/",
@@ -11469,7 +12792,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42511973/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405752/",
@@ -11507,6 +12830,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42299205/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13265025/",
         "doi": "https://doi.org/10.7759/cureus.108901"
+      }
+    },
+    {
+      "id": "pmid-42564721",
+      "pmid": "42564721",
+      "pmcid": "PMC13445946",
+      "doi": "10.7759/cureus.113973",
+      "title": "Procalcitonin-Guided Strategies for Reducing Antibiotic Use in CAP, HAP, VAP, and COPD: Insights From a Systematic Review and Meta-Analysis.",
+      "journal": "Cureus",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "COPD",
+        "exacerbation",
+        "inhaler"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42564721/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13445946/",
+        "doi": "https://doi.org/10.7759/cureus.113973"
       }
     },
     {
@@ -11702,7 +13059,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42358328/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13291797/",
@@ -11805,7 +13162,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42512026/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405776/",
@@ -11940,7 +13297,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42500664/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13397588/",
@@ -11974,7 +13331,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42510568/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405971/",
@@ -12042,7 +13399,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495753/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405364/",
@@ -12246,7 +13603,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495640/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391346/",
@@ -12279,7 +13636,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42416004/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13340745/",
@@ -12314,7 +13671,7 @@
         "Meta-Analysis"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42507120/"
       }
@@ -12346,7 +13703,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42510652/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13404370/",
@@ -12380,7 +13737,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42367752/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13293686/",
@@ -12449,7 +13806,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42502541/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13400132/",
@@ -12517,7 +13874,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42511935/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13405798/",
@@ -12525,37 +13882,71 @@
       }
     },
     {
-      "id": "pmid-42538732",
-      "pmid": "42538732",
-      "pmcid": null,
-      "doi": "10.1097/CCE.0000000000001451",
-      "title": "IgM-Enriched Immunoglobulin As Adjunctive Therapy in Adult Sepsis and Septic Shock: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
-      "journal": "Critical care explorations",
+      "id": "pmid-42559356",
+      "pmid": "42559356",
+      "pmcid": "PMC13439407",
+      "doi": "10.3389/fmed.2026.1852728",
+      "title": "Identification of imaging-based pulmonary and extrapulmonary treatable traits in COPD: a review.",
+      "journal": "Frontiers in medicine",
       "year": 2026,
-      "department": "Infectious Diseases",
-      "disease": "Sepsis",
-      "articleType": "Meta-analysis",
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Review",
       "curationStatus": "pending",
       "examPriority": "unrated",
       "clinicalPriority": "unrated",
       "examWeight": 4,
       "clinicalWeight": 5,
-      "freeFullText": false,
+      "freeFullText": true,
       "tags": [
-        "sepsis",
-        "shock",
-        "ICU"
+        "COPD",
+        "exacerbation",
+        "inhaler"
       ],
       "publicationTypes": [
         "Journal Article",
-        "Systematic Review",
-        "Meta-Analysis"
+        "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
-        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42538732/",
-        "doi": "https://doi.org/10.1097/CCE.0000000000001451"
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42559356/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439407/",
+        "doi": "https://doi.org/10.3389/fmed.2026.1852728"
+      }
+    },
+    {
+      "id": "pmid-42553811",
+      "pmid": "42553811",
+      "pmcid": "PMC13436624",
+      "doi": "10.7759/cureus.112069",
+      "title": "Hyponatremia as a Prognostic Marker in Cirrhosis: A Systematic Review of Its Role Beyond the Model for End-Stage Liver Disease in Predicting Mortality.",
+      "journal": "Cureus",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553811/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13436624/",
+        "doi": "https://doi.org/10.7759/cureus.112069"
       }
     },
     {
@@ -12618,7 +14009,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42423835/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11380491/",
@@ -12690,6 +14081,40 @@
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42487704/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13388853/",
         "doi": "https://doi.org/10.3389/fmicb.2026.1797486"
+      }
+    },
+    {
+      "id": "pmid-42553370",
+      "pmid": "42553370",
+      "pmcid": "PMC13433776",
+      "doi": "10.3389/fmicb.2026.1886655",
+      "title": "Gut microbiota dysbiosis in sepsis and sepsis-associated organ injury: mechanisms, gut-organ axes, and therapeutic strategies.",
+      "journal": "Frontiers in microbiology",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553370/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13433776/",
+        "doi": "https://doi.org/10.3389/fmicb.2026.1886655"
       }
     },
     {
@@ -12821,7 +14246,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42539437/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423654/",
@@ -12923,7 +14348,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536190/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13427849/",
@@ -12991,7 +14416,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42494159/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13396881/",
@@ -13058,7 +14483,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42419778/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13343205/",
@@ -13092,7 +14517,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42518631/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13381344/",
@@ -13194,7 +14619,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42449869/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13359900/",
@@ -13236,6 +14661,74 @@
       }
     },
     {
+      "id": "pmid-42548996",
+      "pmid": "42548996",
+      "pmcid": "PMC13430437",
+      "doi": "10.2147/DDDT.S623143",
+      "title": "Emerging Roles and Possible Therapeutic Applications of Arachidonic Acid Metabolites in Sepsis and Sepsis-Associated Organ Dysfunction.",
+      "journal": "Drug design, development and therapy",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548996/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13430437/",
+        "doi": "https://doi.org/10.2147/DDDT.S623143"
+      }
+    },
+    {
+      "id": "pmid-42564112",
+      "pmid": "42564112",
+      "pmcid": "PMC13442353",
+      "doi": "10.14744/hf.2025.59487",
+      "title": "Embolization of spontaneous portosystemic shunts for refractory hepatic encephalopathy in cirrhosis patients:A meta-analysis.",
+      "journal": "Hepatology forum",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42564112/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13442353/",
+        "doi": "https://doi.org/10.14744/hf.2025.59487"
+      }
+    },
+    {
       "id": "pmid-42430529",
       "pmid": "42430529",
       "pmcid": null,
@@ -13262,7 +14755,7 @@
         "Systematic Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42430529/",
         "doi": "https://doi.org/10.3855/jidc.22151"
@@ -13328,7 +14821,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42512681/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13410075/",
@@ -13394,7 +14887,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42353745/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13295702/",
@@ -13428,7 +14921,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42528681/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13414902/",
@@ -13496,7 +14989,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42438128/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13358175/",
@@ -13530,7 +15023,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42367751/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13293670/",
@@ -13564,7 +15057,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42511562/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13410341/",
@@ -13699,11 +15192,79 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42499970/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13395579/",
         "doi": "https://doi.org/10.5847/wjem.j.1920-8642.2026.066"
+      }
+    },
+    {
+      "id": "pmid-42552852",
+      "pmid": "42552852",
+      "pmcid": "PMC13439154",
+      "doi": "10.1111/aas.70303",
+      "title": "Coagulopathy in Critically Ill Patients With Sepsis: Protocol for a Scoping Review.",
+      "journal": "Acta anaesthesiologica Scandinavica",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42552852/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13439154/",
+        "doi": "https://doi.org/10.1111/aas.70303"
+      }
+    },
+    {
+      "id": "pmid-42554950",
+      "pmid": "42554950",
+      "pmcid": "PMC10043867",
+      "doi": "10.1007/s12325-026-03696-z",
+      "title": "Clinical Relevance of Bile Acid and Bile Acid-Related Therapy in Liver Cirrhosis: A Review.",
+      "journal": "Advances in therapy",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42554950/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10043867/",
+        "doi": "https://doi.org/10.1007/s12325-026-03696-z"
       }
     },
     {
@@ -13801,7 +15362,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42539401/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13423652/",
@@ -13835,7 +15396,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42513495/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13413408/",
@@ -13905,7 +15466,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42379292/",
         "doi": "https://doi.org/10.1016/j.clinre.2026.102877"
@@ -13938,7 +15499,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42452599/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13363545/",
@@ -13971,10 +15532,44 @@
         "Systematic Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42464235/",
         "doi": "https://doi.org/10.1186/s12890-026-04486-7"
+      }
+    },
+    {
+      "id": "pmid-42550336",
+      "pmid": "42550336",
+      "pmcid": "PMC12501102",
+      "doi": "10.1007/s12265-026-10826-z",
+      "title": "Beyond the Pump: Unravelling Immunometabolic Crosstalk and Organelle Dynamics in Sepsis-Induced Cardiomyopathy.",
+      "journal": "Journal of cardiovascular translational research",
+      "year": 2026,
+      "department": "Infectious Diseases",
+      "disease": "Sepsis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "sepsis",
+        "shock",
+        "ICU"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42550336/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12501102/",
+        "doi": "https://doi.org/10.1007/s12265-026-10826-z"
       }
     },
     {
@@ -14139,7 +15734,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42506073/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13412256/",
@@ -14173,7 +15768,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42519060/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13383860/",
@@ -14222,8 +15817,8 @@
       "title": "Adrenergic receptors: a key determinant of outcomes in bacterial pneumonia and bacterial sepsis-associated acute lung injury/acute respiratory distress syndrome through participation in pulmonary innate immune response.",
       "journal": "Frontiers in immunology",
       "year": 2026,
-      "department": "Infectious Diseases",
-      "disease": "Sepsis",
+      "department": "Pulmonology",
+      "disease": "Pneumonia",
       "articleType": "Review",
       "curationStatus": "pending",
       "examPriority": "unrated",
@@ -14232,16 +15827,15 @@
       "clinicalWeight": 5,
       "freeFullText": true,
       "tags": [
-        "sepsis",
-        "shock",
-        "ICU"
+        "CAP",
+        "antibiotics"
       ],
       "publicationTypes": [
         "Journal Article",
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495636/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13391399/",
@@ -14309,7 +15903,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42363497/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13313759/",
@@ -14343,7 +15937,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42499072/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13406185/",
@@ -14377,7 +15971,7 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42504194/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13401879/",
@@ -14477,7 +16071,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42500685/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13395989/",
@@ -14544,11 +16138,45 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42433351/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13350353/",
         "doi": "https://doi.org/10.3389/fimmu.2026.1859655"
+      }
+    },
+    {
+      "id": "pmid-42558597",
+      "pmid": "42558597",
+      "pmcid": "PMC13437795",
+      "doi": "10.3389/fimmu.2026.1841313",
+      "title": "Reversal of refractory systemic lupus erythematosus-associated immune thrombotic thrombocytopenic purpura and cerebritis via optimized lymphoplasmapheresis: a case report and literature review.",
+      "journal": "Frontiers in immunology",
+      "year": 2026,
+      "department": "Rheumatology",
+      "disease": "Systemic Lupus Erythematosus",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "SLE",
+        "lupus nephritis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Case Reports",
+        "Review"
+      ],
+      "score": 34,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42558597/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13437795/",
+        "doi": "https://doi.org/10.3389/fimmu.2026.1841313"
       }
     },
     {
@@ -14652,6 +16280,40 @@
       }
     },
     {
+      "id": "pmid-42553965",
+      "pmid": "42553965",
+      "pmcid": "PMC13436991",
+      "doi": "10.1186/s13643-025-03029-1",
+      "title": "Quantitative Volumetric Analysis of the Brain Using Magnetic Resonance Imaging in Sickle Cell Anaemia.",
+      "journal": "Nigerian medical journal : journal of the Nigeria Medical Association",
+      "year": 2026,
+      "department": "Hematology",
+      "disease": "Anemia",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "iron deficiency",
+        "B12",
+        "hemolysis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 34,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42553965/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13436991/",
+        "doi": "https://doi.org/10.1186/s13643-025-03029-1"
+      }
+    },
+    {
       "id": "pmid-42359369",
       "pmid": "42359369",
       "pmcid": "PMC13291442",
@@ -14678,11 +16340,44 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42359369/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13291442/",
         "doi": "https://doi.org/10.1155/anem/7191757"
+      }
+    },
+    {
+      "id": "pmid-42568742",
+      "pmid": "42568742",
+      "pmcid": "PMC13447500",
+      "doi": "10.3389/fimmu.2026.1778274",
+      "title": "Platelets in systemic lupus erythematosus: from hemostatic allies to pathogenic drivers.",
+      "journal": "Frontiers in immunology",
+      "year": 2026,
+      "department": "Rheumatology",
+      "disease": "Systemic Lupus Erythematosus",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "SLE",
+        "lupus nephritis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 34,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42568742/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13447500/",
+        "doi": "https://doi.org/10.3389/fimmu.2026.1778274"
       }
     },
     {
@@ -14712,7 +16407,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42496446/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13397824/",
@@ -14813,7 +16508,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42345733/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13299662/",
@@ -14847,7 +16542,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42445619/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13361776/",
@@ -14880,7 +16575,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42505866/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13409825/",
@@ -15015,10 +16710,44 @@
         "Systematic Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42406697/",
         "doi": "https://doi.org/10.1159/000553444"
+      }
+    },
+    {
+      "id": "pmid-42569155",
+      "pmid": "42569155",
+      "pmcid": "PMC13449291",
+      "doi": "10.46989/001c.165952",
+      "title": "Iron deficiency without anemia: An underrecognized and undertreated clinical condition with special focus on colorectal cancer.",
+      "journal": "Clinical hematology international",
+      "year": 2026,
+      "department": "Hematology",
+      "disease": "Anemia",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "iron deficiency",
+        "B12",
+        "hemolysis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 34,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42569155/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13449291/",
+        "doi": "https://doi.org/10.46989/001c.165952"
       }
     },
     {
@@ -15082,7 +16811,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42355917/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13301631/",
@@ -15115,7 +16844,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42445598/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13358801/",
@@ -15157,6 +16886,40 @@
       }
     },
     {
+      "id": "pmid-42564065",
+      "pmid": "42564065",
+      "pmcid": "PMC13442011",
+      "doi": "10.3389/fimmu.2026.1900845",
+      "title": "Gut microbiota in anemia: mechanistic insights into iron metabolism, vitamin synthesis, and immune regulation.",
+      "journal": "Frontiers in immunology",
+      "year": 2026,
+      "department": "Hematology",
+      "disease": "Anemia",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": true,
+      "tags": [
+        "iron deficiency",
+        "B12",
+        "hemolysis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 34,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42564065/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13442011/",
+        "doi": "https://doi.org/10.3389/fimmu.2026.1900845"
+      }
+    },
+    {
       "id": "pmid-42521224",
       "pmid": "42521224",
       "pmcid": "PMC13413138",
@@ -15183,7 +16946,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42521224/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13413138/",
@@ -15216,7 +16979,7 @@
         "Scoping Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42463280/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13384179/",
@@ -15283,7 +17046,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42445351/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13361402/",
@@ -15316,7 +17079,7 @@
         "Systematic Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42435358/",
         "doi": "https://doi.org/10.1159/000553545"
@@ -15382,7 +17145,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42479350/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5623591/",
@@ -15415,7 +17178,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42469904/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13383539/",
@@ -15482,7 +17245,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42534839/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13422151/",
@@ -15516,7 +17279,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42496447/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13397923/",
@@ -15550,7 +17313,7 @@
         "Systematic Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42393625/",
         "doi": "https://doi.org/10.1186/s12890-026-04404-x"
@@ -15583,7 +17346,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42416773/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13325773/",
@@ -15651,7 +17414,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42516809/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13404363/",
@@ -15718,7 +17481,7 @@
         "Review"
       ],
       "score": 34,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536103/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13427683/",
@@ -16046,10 +17809,42 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42535806/",
         "doi": "https://doi.org/10.4103/IJO.IJO_1125_25"
+      }
+    },
+    {
+      "id": "pmid-42566987",
+      "pmid": "42566987",
+      "pmcid": null,
+      "doi": "10.1016/j.atherosclerosis.2026.121860",
+      "title": "The adventitia, vascular inflammation, and the intersection of hypertension and vascular disease.",
+      "journal": "Atherosclerosis",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42566987/",
+        "doi": "https://doi.org/10.1016/j.atherosclerosis.2026.121860"
       }
     },
     {
@@ -16116,6 +17911,39 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42471182/",
         "doi": "https://doi.org/10.1016/j.diabres.2026.113447"
+      }
+    },
+    {
+      "id": "pmid-42543747",
+      "pmid": "42543747",
+      "pmcid": null,
+      "doi": "10.1111/dme.70414",
+      "title": "Social support and diabetes self-care among African American adults with type 2 diabetes: A systematic review.",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42543747/",
+        "doi": "https://doi.org/10.1111/dme.70414"
       }
     },
     {
@@ -16343,7 +18171,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42517459/",
         "doi": "https://doi.org/10.1161/JAHA.125.045770"
@@ -16441,7 +18269,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42528385/",
         "doi": "https://doi.org/10.1080/03007995.2026.2706900"
@@ -16571,7 +18399,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42521151/",
         "doi": "https://doi.org/10.1016/j.chest.2026.07.5215"
@@ -16771,6 +18599,38 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42467408/",
         "doi": "https://doi.org/10.1080/17512433.2026.2706660"
+      }
+    },
+    {
+      "id": "pmid-42547492",
+      "pmid": "42547492",
+      "pmcid": null,
+      "doi": "10.1017/S0007114526108137",
+      "title": "Nut consumption and the risk of hypertension: a systematic review and dose response meta-analysis of prospective studies.",
+      "journal": "The British journal of nutrition",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42547492/",
+        "doi": "https://doi.org/10.1017/S0007114526108137"
       }
     },
     {
@@ -17000,6 +18860,39 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42414020/",
         "doi": "https://doi.org/10.1016/j.tjnut.2026.101596"
+      }
+    },
+    {
+      "id": "pmid-42545322",
+      "pmid": "42545322",
+      "pmcid": null,
+      "doi": "10.14341/probl13618",
+      "title": "Metformin's disruption of gluconeogenesis in type 2 diabetes impairments of the cori and alanine cycles as hidden drivers of metabolic waste accumulation, NF-κBHIF-1α-mediated low-grade inflammation, and multisystem dysfunction.",
+      "journal": "Problemy endokrinologii",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42545322/",
+        "doi": "https://doi.org/10.14341/probl13618"
       }
     },
     {
@@ -17290,7 +19183,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42524756/",
         "doi": "https://doi.org/10.1080/17434440.2026.2711869"
@@ -17561,6 +19454,72 @@
       }
     },
     {
+      "id": "pmid-42559717",
+      "pmid": "42559717",
+      "pmcid": null,
+      "doi": "10.1080/13813455.2026.2706204",
+      "title": "Fructose-1,6-bisphosphatase as a therapeutic target for type 2 diabetes: from molecular mechanisms to clinical translation.",
+      "journal": "Archives of physiology and biochemistry",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42559717/",
+        "doi": "https://doi.org/10.1080/13813455.2026.2706204"
+      }
+    },
+    {
+      "id": "pmid-42563498",
+      "pmid": "42563498",
+      "pmcid": null,
+      "doi": "10.1152/ajpheart.00177.2026",
+      "title": "From Gut to Heart: The Emerging Role of Dietary Fermentable Fiber in Heart Failure with Preserved Ejection Fraction.",
+      "journal": "American journal of physiology. Heart and circulatory physiology",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42563498/",
+        "doi": "https://doi.org/10.1152/ajpheart.00177.2026"
+      }
+    },
+    {
       "id": "pmid-42480913",
       "pmid": "42480913",
       "pmcid": null,
@@ -17686,10 +19645,43 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42520000/",
         "doi": "https://doi.org/10.1159/kbr/adjag001"
+      }
+    },
+    {
+      "id": "pmid-42562184",
+      "pmid": "42562184",
+      "pmcid": null,
+      "doi": "10.1016/j.diabres.2026.113469",
+      "title": "Efficacy and tolerability of mirogabalin, pregabalin, duloxetine, and placebo in patients with type 2 diabetes mellitus and painful diabetic peripheral neuropathy: A network meta-analysis.",
+      "journal": "Diabetes research and clinical practice",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42562184/",
+        "doi": "https://doi.org/10.1016/j.diabres.2026.113469"
       }
     },
     {
@@ -17853,6 +19845,38 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42371950/",
         "doi": "https://doi.org/10.1080/08037051.2026.2696695"
+      }
+    },
+    {
+      "id": "pmid-42548165",
+      "pmid": "42548165",
+      "pmcid": null,
+      "doi": "10.1111/phn.70168",
+      "title": "Divergent Trends in Hospitalizations and Mortality from Diabetes and Hypertension: A Population-Based Time-Series Study with Implications for Public Health Nursing in Southern Brazil.",
+      "journal": "Public health nursing (Boston, Mass.)",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Hypertension",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "hypertension",
+        "blood pressure"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42548165/",
+        "doi": "https://doi.org/10.1111/phn.70168"
       }
     },
     {
@@ -18113,7 +20137,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42495768/",
         "doi": "https://doi.org/10.3892/mmr.2026.13969"
@@ -18146,7 +20170,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42528432/",
         "doi": "https://doi.org/10.31083/BJHM51534"
@@ -18216,6 +20240,39 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42418867/",
         "doi": "https://doi.org/10.1016/j.yexmp.2026.105063"
+      }
+    },
+    {
+      "id": "pmid-42571652",
+      "pmid": "42571652",
+      "pmcid": null,
+      "doi": "10.1136/heartjnl-2026-328221",
+      "title": "Bidirectional links between heart failure and cancer: shared pathophysiology, clinical outcomes and collaborative management.",
+      "journal": "Heart (British Cardiac Society)",
+      "year": 2026,
+      "department": "Cardiology",
+      "disease": "Heart Failure",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "HFrEF",
+        "HFpEF",
+        "GDMT"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42571652/",
+        "doi": "https://doi.org/10.1136/heartjnl-2026-328221"
       }
     },
     {
@@ -18310,7 +20367,7 @@
         "Review"
       ],
       "score": 32,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42535384/",
         "doi": "https://doi.org/10.3892/mmr.2026.13974"
@@ -18347,6 +20404,39 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42418990/",
         "doi": "https://doi.org/10.1016/j.pec.2026.109768"
+      }
+    },
+    {
+      "id": "pmid-42556113",
+      "pmid": "42556113",
+      "pmcid": null,
+      "doi": "10.1016/j.biopha.2026.119815",
+      "title": "Aspirin hyporesponsiveness in type 2 diabetes mellitus: A systematic review with narrative synthesis of definitions, assessment methods, and clinical relevance.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42556113/",
+        "doi": "https://doi.org/10.1016/j.biopha.2026.119815"
       }
     },
     {
@@ -18481,6 +20571,39 @@
       }
     },
     {
+      "id": "pmid-42570773",
+      "pmid": "42570773",
+      "pmcid": null,
+      "doi": "10.1016/j.diabres.2026.113486",
+      "title": "A conceptual framework linking platelet activation, adaptive FGF21-GDF15 signaling, and islet vascular dysfunction in progressive β-cell failure of type 2 diabetes.",
+      "journal": "Diabetes research and clinical practice",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 32,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42570773/",
+        "doi": "https://doi.org/10.1016/j.diabres.2026.113486"
+      }
+    },
+    {
       "id": "pmid-42508626",
       "pmid": "42508626",
       "pmcid": null,
@@ -18539,7 +20662,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42448106/",
         "doi": "https://doi.org/10.1016/j.accpm.2026.101896"
@@ -18572,7 +20695,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42501940/",
         "doi": "https://doi.org/10.1016/j.chest.2026.06.060"
@@ -18605,7 +20728,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42420761/",
         "doi": "https://doi.org/10.1002/bmc.70541"
@@ -18902,7 +21025,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42435974/",
         "doi": "https://doi.org/10.1016/j.jhepr.2026.101957"
@@ -18966,7 +21089,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42415225/",
         "doi": "https://doi.org/10.1186/s44158-026-00432-5"
@@ -18999,7 +21122,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42498339/",
         "doi": "https://doi.org/10.1016/j.cnc.2026.04.010"
@@ -19097,10 +21220,43 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42431010/",
         "doi": "https://doi.org/10.1016/j.resinv.2026.101480"
+      }
+    },
+    {
+      "id": "pmid-42544833",
+      "pmid": "42544833",
+      "pmcid": null,
+      "doi": "10.1111/apt.70893",
+      "title": "Review article: Immunosuppression in Decompensated Autoimmune Hepatitis Cirrhosis - To Suppress or Not to Suppress?",
+      "journal": "Alimentary pharmacology & therapeutics",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 31,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42544833/",
+        "doi": "https://doi.org/10.1111/apt.70893"
       }
     },
     {
@@ -19130,7 +21286,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42342081/",
         "doi": "https://doi.org/10.1016/j.jhep.2026.05.026"
@@ -19163,7 +21319,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42531012/",
         "doi": "https://doi.org/10.1556/1886.2026.00039"
@@ -19195,7 +21351,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42413821/",
         "doi": "https://doi.org/10.1016/j.accpm.2026.101887"
@@ -19260,7 +21416,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42492465/",
         "doi": "https://doi.org/10.1016/j.ejso.2026.112032"
@@ -19292,7 +21448,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42372294/",
         "doi": "https://doi.org/10.1080/14787210.2026.2695974"
@@ -19332,6 +21488,72 @@
       }
     },
     {
+      "id": "pmid-42556749",
+      "pmid": "42556749",
+      "pmcid": null,
+      "doi": "10.1016/j.rmed.2026.109084",
+      "title": "Oxidative stress-driven dysregulation of the MMP-2/TIMP-2 axis in chronic obstructive pulmonary disease: Molecular mechanisms, genetic polymorphisms, and therapeutic implications.",
+      "journal": "Respiratory medicine",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "COPD",
+        "exacerbation",
+        "inhaler"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 31,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42556749/",
+        "doi": "https://doi.org/10.1016/j.rmed.2026.109084"
+      }
+    },
+    {
+      "id": "pmid-42348593",
+      "pmid": "42348593",
+      "pmcid": null,
+      "doi": "10.1097/MCO.0000000000001242",
+      "title": "Nutrition in cirrhosis: bridging guidelines and practice in hepatic disease.",
+      "journal": "Current opinion in clinical nutrition and metabolic care",
+      "year": 2026,
+      "department": "Gastroenterology",
+      "disease": "Cirrhosis",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "ascites",
+        "varices",
+        "hepatic encephalopathy"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 31,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42348593/",
+        "doi": "https://doi.org/10.1097/MCO.0000000000001242"
+      }
+    },
+    {
       "id": "pmid-42365654",
       "pmid": "42365654",
       "pmcid": null,
@@ -19358,7 +21580,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42365654/",
         "doi": "https://doi.org/10.15403/jgld-6647"
@@ -19390,7 +21612,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42398429/",
         "doi": "https://doi.org/10.1016/j.antiviral.2026.106482"
@@ -19489,7 +21711,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42541906/",
         "doi": "https://doi.org/10.1016/j.tice.2026.103831"
@@ -19654,7 +21876,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42528446/",
         "doi": "https://doi.org/10.1080/17843286.2026.2711066"
@@ -19816,7 +22038,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42402602/",
         "doi": "https://doi.org/10.1186/s13054-026-06185-5"
@@ -19882,7 +22104,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42498331/",
         "doi": "https://doi.org/10.1016/j.cnc.2026.04.002"
@@ -19981,7 +22203,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42527215/",
         "doi": "https://doi.org/10.1016/j.jnma.2026.06.021"
@@ -20014,7 +22236,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42486788/",
         "doi": "https://doi.org/10.1097/HC9.0000000000000989"
@@ -20025,7 +22247,7 @@
       "pmid": "42425406",
       "pmcid": null,
       "doi": "10.1016/j.chest.2026.06.050",
-      "title": "Community-Acquired Pneumonia in Nursing-Home Residents in the Post-HCAP Era.",
+      "title": "Community-Acquired Pneumonia in Nursing-Home Residents in the Post-Health Care-Associated Pneumonia Era.",
       "journal": "Chest",
       "year": 2026,
       "department": "Pulmonology",
@@ -20046,7 +22268,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42425406/",
         "doi": "https://doi.org/10.1016/j.chest.2026.06.050"
@@ -20116,6 +22338,39 @@
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42485981/",
         "doi": "https://doi.org/10.1016/j.jcrc.2026.155696"
+      }
+    },
+    {
+      "id": "pmid-42562238",
+      "pmid": "42562238",
+      "pmcid": null,
+      "doi": "10.1016/j.rmed.2026.109080",
+      "title": "COPD case finding and identification of at-risk individuals: opportunities for early personalized intervention and disease interception.",
+      "journal": "Respiratory medicine",
+      "year": 2026,
+      "department": "Pulmonology",
+      "disease": "COPD",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "COPD",
+        "exacerbation",
+        "inhaler"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 31,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42562238/",
+        "doi": "https://doi.org/10.1016/j.rmed.2026.109080"
       }
     },
     {
@@ -20211,7 +22466,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42509090/",
         "doi": "https://doi.org/10.1016/j.jnma.2026.06.013"
@@ -20276,7 +22531,7 @@
         "Review"
       ],
       "score": 31,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42498978/",
         "doi": "https://doi.org/10.1080/14760584.2026.2708194"
@@ -20407,7 +22662,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42315301/",
         "doi": "https://doi.org/10.1093/labmed/lmaf064"
@@ -20440,7 +22695,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42391154/",
         "doi": "https://doi.org/10.1159/000553297"
@@ -20472,10 +22727,42 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42537764/",
         "doi": "https://doi.org/10.1016/j.autrev.2026.104152"
+      }
+    },
+    {
+      "id": "pmid-42565363",
+      "pmid": "42565363",
+      "pmcid": null,
+      "doi": "10.1002/acr.80132",
+      "title": "Prevalence of Major Pulmonary Complications Among Patients with Systemic Lupus Erythematosus (SLE): A Systematic Review and Meta-Analysis.",
+      "journal": "Arthritis care & research",
+      "year": 2026,
+      "department": "Rheumatology",
+      "disease": "Systemic Lupus Erythematosus",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": false,
+      "tags": [
+        "SLE",
+        "lupus nephritis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 30,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42565363/",
+        "doi": "https://doi.org/10.1002/acr.80132"
       }
     },
     {
@@ -20505,7 +22792,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42414122/",
         "doi": "https://doi.org/10.1016/j.nefroe.2026.501576"
@@ -20538,7 +22825,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42324995/",
         "doi": "https://doi.org/10.1161/CIR.0000000000001446"
@@ -20602,7 +22889,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42498095/",
         "doi": "https://doi.org/10.1016/j.autrev.2026.104144"
@@ -20666,7 +22953,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42503367/",
         "doi": "https://doi.org/10.1016/j.autrev.2026.104146"
@@ -20698,7 +22985,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42542236/",
         "doi": "https://doi.org/10.1016/j.clim.2026.110759"
@@ -20730,7 +23017,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42489412/",
         "doi": "https://doi.org/10.1002/lsm.70184"
@@ -20762,7 +23049,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42526780/",
         "doi": "https://doi.org/10.1016/j.autrev.2026.104153"
@@ -20828,7 +23115,7 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42437696/",
         "doi": "https://doi.org/10.1111/vox.70321"
@@ -20925,10 +23212,42 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42409298/",
         "doi": "https://doi.org/10.1016/j.autrev.2026.104135"
+      }
+    },
+    {
+      "id": "pmid-42554215",
+      "pmid": "42554215",
+      "pmcid": null,
+      "doi": "10.1111/joim.70146",
+      "title": "Advances in the treatment of systemic lupus erythematosus: Biologicals, small-molecular agents, and cell-depleting therapies coming to the clinic.",
+      "journal": "Journal of internal medicine",
+      "year": 2026,
+      "department": "Rheumatology",
+      "disease": "Systemic Lupus Erythematosus",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 4,
+      "clinicalWeight": 4,
+      "freeFullText": false,
+      "tags": [
+        "SLE",
+        "lupus nephritis"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 30,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42554215/",
+        "doi": "https://doi.org/10.1111/joim.70146"
       }
     },
     {
@@ -20990,10 +23309,76 @@
         "Review"
       ],
       "score": 30,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42385497/",
         "doi": "https://doi.org/10.1016/j.seminoncol.2026.152517"
+      }
+    },
+    {
+      "id": "pmid-42544002",
+      "pmid": "42544002",
+      "pmcid": null,
+      "doi": "10.59556/japi.74.1567",
+      "title": "Imeglimin in Type 2 Diabetes Mellitus: Expert Opinions and Consensus in Indian Context.",
+      "journal": "The Journal of the Association of Physicians of India",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Article",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "score": 22,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42544002/",
+        "doi": "https://doi.org/10.59556/japi.74.1567"
+      }
+    },
+    {
+      "id": "pmid-42543954",
+      "pmid": "42543954",
+      "pmcid": null,
+      "doi": "10.59556/japi.74.1363",
+      "title": "Expert Consensus and Physician Perspectives on a Low-dose Triple Fixed-dose Combination for Type 2 Diabetes in India.",
+      "journal": "The Journal of the Association of Physicians of India",
+      "year": 2026,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Article",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": false,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "score": 22,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42543954/",
+        "doi": "https://doi.org/10.59556/japi.74.1363"
       }
     },
     {
@@ -21201,11 +23586,45 @@
         "Review"
       ],
       "score": 35,
-      "lastChecked": "2026-08-02",
+      "lastChecked": "2026-08-09",
       "links": {
         "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42540443/",
         "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13426177/",
         "doi": "https://doi.org/10.5114/aoms/210330"
+      }
+    },
+    {
+      "id": "pmid-42563803",
+      "pmid": "42563803",
+      "pmcid": "PMC13268266",
+      "doi": "10.7586/jkbns.25.046",
+      "title": "Effects of Pilates exercise on glycated hemoglobin and fasting blood sugar in type 2 diabetes: a systematic review and meta-analysis.",
+      "journal": "Journal of Korean biological nursing science",
+      "year": 2025,
+      "department": "Endocrinology",
+      "disease": "Type 2 Diabetes",
+      "articleType": "Review",
+      "curationStatus": "pending",
+      "examPriority": "unrated",
+      "clinicalPriority": "unrated",
+      "examWeight": 5,
+      "clinicalWeight": 5,
+      "freeFullText": true,
+      "tags": [
+        "T2D",
+        "GLP-1 RA",
+        "SGLT2 inhibitor"
+      ],
+      "publicationTypes": [
+        "Journal Article",
+        "Review"
+      ],
+      "score": 35,
+      "lastChecked": "2026-08-09",
+      "links": {
+        "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42563803/",
+        "pmc": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13268266/",
+        "doi": "https://doi.org/10.7586/jkbns.25.046"
       }
     },
     {
