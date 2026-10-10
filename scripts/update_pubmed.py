@@ -44,7 +44,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--catalog", default="data/catalog.json", help="Path to catalog JSON.")
     parser.add_argument("--years", type=int, default=10, help="Publication date window in years.")
     parser.add_argument("--limit", type=int, default=25, help="Maximum PubMed records per topic.")
-    parser.add_argument("--sleep", type=float, default=0.4, help="Delay between NCBI requests in seconds.")
+    parser.add_argument("--sleep", type=float, default=0.9, help="Delay between NCBI requests in seconds (無 API key 時 3 req/s 是硬限制，0.4 偶爾整批失敗).")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and report counts without writing the catalog.")
     parser.add_argument("--replace-pending", action="store_true", help="Drop pending auto-imported records before importing.")
     return parser.parse_args()
@@ -107,7 +107,7 @@ def search_pubmed(topic: dict[str, Any], years: int, limit: int, sleep: float) -
         "db": "pubmed",
         "retmode": "json",
         "retmax": str(limit),
-        "sort": "pub+date",
+        "sort": "pub_date",  # ⚠️ E-utilities 只吃 pub_date；urlencode 後的 pub+date 會被靜默忽略
         "term": term,
         **ncbi_identity_params(),
     }
